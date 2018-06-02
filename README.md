@@ -1,2 +1,2 @@
-# webpack-exercicios
-Alguns exercícios com WebPack
+# Webpack-exercicios
+Alguns exercícios com WebPack.
